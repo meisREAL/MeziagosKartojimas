@@ -10,6 +10,9 @@ namespace _23pamoka
     {
         static void Main(string[] args)
         {
+
         }
+
+
     }
 }
